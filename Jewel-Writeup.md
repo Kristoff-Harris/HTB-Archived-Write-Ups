@@ -26,4 +26,4 @@ Steps I took to get this all running
 - rbenv global 2.6.10
 - sudo gem install bundler:1.17.3
 - sudo gem install nokogiri -v '1.10.9' --source 'https://rubygems.org/'
-- sudo apt install ruby-dev![image](https://user-images.githubusercontent.com/25730423/169194972-0f76df17-5975-4791-8cdc-3e6378a390e7.png)
+- sudo apt install ruby-dev
