@@ -3,7 +3,7 @@
 
 
 # Code I used to create my payload
-- https://github.com/masahiro331/CVE-2020-8165
+Main Resource - https://github.com/masahiro331/CVE-2020-8165
 
 #Steps I took to get this all running 
 
